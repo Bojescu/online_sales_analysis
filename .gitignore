@@ -1,0 +1,7 @@
+# Ignore the config.json file containing sensitive data
+config.json
+
+# Ignore all screenshots
+*.png
+*.jpg
+*.jpeg
