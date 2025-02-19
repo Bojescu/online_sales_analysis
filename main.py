@@ -23,3 +23,4 @@ for product in random_products:
 
 # Display cart contents
 cart.display_cart()
+
