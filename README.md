@@ -28,8 +28,4 @@
 - `display_cart()` – Displays the cart contents  
 - `cart_total_value()` – Calculates the total cart value  
 
-##  Usage  
-1. **Run the program:**  
-   ```sh
-   python main.py  
 
